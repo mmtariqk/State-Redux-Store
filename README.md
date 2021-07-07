@@ -97,10 +97,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Please use the following link to view the deployed application on Heroku:
 
-
-
-## Technologies Use
-<p><a href="https://redux.js.org/">Redux</a></p>
-<p><a href="https://reactjs.org/">React.js</a></p>
-<p><a href="https://www.mongodb.com/">MongoDB</a></p>
-<p><a href="https://nodejs.org/">Node.js</a></p>
