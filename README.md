@@ -1,9 +1,9 @@
 # Shop-Shop-Redux-Store
- 
+
 Refractor e-commerce platform from using global state React's Contect API to Redux.
 
 ## Description
-E-commerce website that allows user to login and purchase items, also see their order history.
+This is an E-commerce website where a user can shop for goods and purchase them via stripe. Please note this application is mainly for educational purposes no goods are actually for sale. This application was built mainly to learn redux and state management. App allows user to login and buy items, also see their order history.
 
 
 ## User Story
