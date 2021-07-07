@@ -5,6 +5,24 @@ Refractor e-commerce platform from using global state React's Contect API to Red
 ## Description
 This is an E-commerce website where a user can shop for goods and purchase them via stripe. Please note this application is mainly for educational purposes no goods are actually for sale. This application was built mainly to learn redux and state management. App allows user to login and buy items, also see their order history.
 
+## Technologies and tools used
+Node.js
+apollo server
+apollo server express
+graphQl
+JWT (JSON Web Token)
+bcrypt
+mongoose
+express
+sequelize
+stripe
+redux
+JSX
+JavaScript
+CSS
+REACT bootsrap
+Heroku
+REACT
 
 ## User Story
 ```
