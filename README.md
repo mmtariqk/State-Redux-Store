@@ -1,9 +1,6 @@
 # Shop-Shop-Redux-Store
-
-Today 07/06/2021 11:25am (Refactored today AH)
-  
+ 
 Refractor e-commerce platform from using global state React's Contect API to Redux.
-
 
 ## Description
 E-commerce website that allows user to login and purchase items, also see their order history.
