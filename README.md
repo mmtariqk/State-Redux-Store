@@ -24,6 +24,9 @@ REACT bootsrap
 Heroku
 REACT
 
+## Screenshot
+<img width="1383" alt="Screen Shot 2021-07-07 at 3 14 13 PM" src="https://user-images.githubusercontent.com/77028806/124835402-1f392980-df36-11eb-92c8-4b1a6acdd80d.png">
+
 ## Tasks List
 
 - [x] Use the Redux to implement a Redux store.
