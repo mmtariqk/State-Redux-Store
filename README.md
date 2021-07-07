@@ -50,23 +50,6 @@ REACT
 * When I review the way the app extracts state data from the store, then I find that the app uses Redux.
 * When I review the way the app dispatches actions, then I find that the app uses Redux.
 
-## Screenshots
-
-Please see below animations for different sections of this application:
-
-* The following animation shows how a user can register using the Signup page and then navigate to the Products page:
-
-![alt=signup](./client/src/assets/signup.gif)
-
-* The following animation shows how the user can select a category, choose a product, view details about it on the product page, and add and remove it from their shopping cart:
-
-![alt=main-functionality](./client/src/assets/main-functionality.gif)
-
-
-* Finally, the user can checkout by going to their shopping cart, as shown in the following animation:
-
-![alt=checkout](./client/src/assets/checkout.gif)
-
 ## Available Scripts
 
 In the project directory, you can run:
