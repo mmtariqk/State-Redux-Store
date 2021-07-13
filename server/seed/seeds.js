@@ -57,7 +57,7 @@ db.once('open', async () => {
       name: 'Set of Wooden Spoons',
       category: categories[1]._id,
       description:
-        'Vivamus ut turpis in purus pretium mollis. Donec turpis odio, semper vel interdum ut, vulputate at ex. Duis dignissim nisi vel tortor imperdiet finibus. Aenean aliquam sagittis rutrum.',
+        't is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here.',
       image: 'wooden-spoons.jpg',
       price: 14.99,
       quantity: 100
