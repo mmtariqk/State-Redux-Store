@@ -24,11 +24,11 @@ export function register(config) {
   if (
     process.env.NODE_ENV === 'production' &&
     'serviceWorker' in navigator) {
-    // The URL constructor is available in all browsers that support SW.
+    // Here the URL constructor is available in all browsers that support SW.
 
     const publicUrl = new URL(process.env.PUBLIC_URL, window.location.href);
     if (publicUrl.origin !== window.location.origin) {
-      // Our service worker won't work if PUBLIC_URL is on a different origin
+      // Here our service worker won't work if PUBLIC_URL is on a different origin
       // from what our page is served on. This might happen if a CDN is used to
       // serve assets; see https://github.com/facebook/create-react-app/issues/2374
       return;
@@ -41,8 +41,8 @@ export function register(config) {
         // This is running on localhost. Let's check if a service worker still exists or not.
         checkValidServiceWorker(swUrl, config);
 
-        // Add some additional logging to localhost, pointing developers to the
-        // service worker/PWA documentation.
+        // Here to add some additional logging to localhost, pointing developers to the
+        // Here is service worker/PWA documentation.
         navigator.serviceWorker.ready.then(() => {
           console.log(
             'This web app is being served cache-first by a service ' +
@@ -50,7 +50,7 @@ export function register(config) {
           );
         });
       } else {
-        // Is not localhost. Just register service worker
+        // Here is not localhost. Just register service worker
         registerValidSW(swUrl, config);
       }
     });
