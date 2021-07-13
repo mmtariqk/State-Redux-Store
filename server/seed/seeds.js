@@ -92,7 +92,7 @@ db.once('open', async () => {
     {
       name: 'Spinning Top',
       category: categories[4]._id,
-      description: 'Ut vulputate hendrerit nibh, a placerat elit cursus interdum.',
+      description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
       image: 'spinning-top.jpg',
       price: 1.99,
       quantity: 1000
