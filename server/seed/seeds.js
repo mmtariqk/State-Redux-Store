@@ -101,7 +101,7 @@ db.once('open', async () => {
       name: 'Set of Plastic Horses',
       category: categories[4]._id,
       description:
-        'Sed a mauris condimentum, elementum enim in, rhoncus dui. Phasellus lobortis leo odio, sit amet pharetra turpis porta quis.',
+        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
       image: 'plastic-horses.jpg',
       price: 2.99,
       quantity: 1000
