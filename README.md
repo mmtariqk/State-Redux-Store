@@ -1,6 +1,6 @@
 # Shop-Shop-Redux-Store
 
-Refractor e-commerce platform from using global state React's Contect API to Redux.
+Refractor e-commerce platform from using global state React's Context API to Redux.
 
 ## Description
 This is an E-commerce website where a user can shop for goods and purchase them using stripe. Stripe Payments is a payment processing platform. It allows you to transfer money from a customer's bank account into your business's account by way of a credit or debit card transaction. Please note this application is mainly for educational purposes no goods are actually for sale. This application was built mainly to learn redux and state management. App allows user to login and buy items, also see their order history.
